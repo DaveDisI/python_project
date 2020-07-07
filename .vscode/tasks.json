@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "win_build",
+            "type": "shell",
+            "command": "python\\bin\\python hello.py",
+        }
+    ]
+}
